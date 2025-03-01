@@ -1,4 +1,5 @@
 import  parseWeather  from './weather.js';
+import './index.css';
 
 let search = document.getElementById('search');
 
