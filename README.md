@@ -15,13 +15,6 @@ A simple **weather application** that fetches and displays the current weather f
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/weatherapp-screenshot.png" alt="WeatherApp Screenshot" width="500">
-</p>
-
----
 
 ## 🚀 Installation & Setup
 
